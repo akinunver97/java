@@ -1,1 +1,1 @@
-# java study files written in IntelliJ Idea
+This repo includes java study files written in IntelliJ Idea.
